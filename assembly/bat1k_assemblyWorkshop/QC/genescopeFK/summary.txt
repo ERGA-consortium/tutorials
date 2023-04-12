@@ -1,0 +1,14 @@
+GenomeScope version 2.0
+input file = mTadBra1.hist.txt
+output directory = ./
+p = 2
+k = 40
+
+property                      min               max               
+Homozygous (aa)               99.0153%          99.0223%          
+Heterozygous (ab)             0.97765%          0.984683%         
+Genome Haploid Length         NA bp             2,102,546,487 bp  
+Genome Repeat Length          264,272,784 bp    264,567,375 bp    
+Genome Unique Length          1,837,103,130 bp  1,839,150,990 bp  
+Model Fit                     92.5427%          98.1712%          
+Read Error Rate               0.214868%         0.214868%         
