@@ -19,3 +19,11 @@ Taken from:
 [Sanger Rapid Curation](https://gitlab.com/wtsi-grit/rapid-curation)
 The singularity images can be found here (too large for github):
 [Singularity images](https://gitlab.com/wtsi-grit/rapid-curation/-/tree/main/rapid_hic_software)
+
+## Slack Channel Invites
+[ATUTA](https://atuta.slack.com/join/shared_invite/zt-1t6664ctw-h75bVxC9mfNDw9tJJbUxxw#/shared-invite/email) All Things Up To Assembly
+
+[Assembly Curation](https://assemblycuration.slack.com/join/shared_invite/zt-1t1zz97fq-PdfF~plbFlsMIVe5OSZ3AA#/shared-invite/email)
+
+## Videos
+[ECCB Workshop](https://www.youtube.com/watch?v=dQExdY9B7oY&ab_channel=ISCB) 
